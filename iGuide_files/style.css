@@ -509,7 +509,7 @@ section.que article.cajasTexto div.cajaNaranja {
 		width:215px;
 		height:209px;
 		display:block;
-		background:url(../img/bgdCajasQue.png) top left no-repeat #FFB300;
+		background:url(../img/bgdCajasQue.png) top left no-repeat #FFA200;
 		color:#FFF;
 		margin-right:26px;
 		padding: 0px;
@@ -520,7 +520,7 @@ section.que article.cajasTexto div.cajaRoja {
 		width:215px;
 		height:209px;
 		display:block;
-		background:url(../img/bgdCajasQue.png) top left no-repeat #FFEB00;
+		background:url(../img/bgdCajasQue.png) top left no-repeat #FFCC00;
 		color:#FFF;
 		margin-right:18px;
 		padding: 0px;
@@ -530,9 +530,9 @@ section.que article.cajasTexto div.cajaNaranja h5 {
 	font-family: 'Roboto', sans-serif;
 	/*font-weight:100;*/
 	text-align:center;
-	padding-top:80px;
+	padding-top:15px;
 	font-size:23px;
-	margin-bottom:3px;
+	margin-bottom:6px;
 	margin-top: 10px;
 }
 
@@ -753,7 +753,7 @@ section.conquienes article h2{
 
 section.que article div div.derecha {
 	float:left;
-	padding-left:80px;
+	padding-left:10px;
 	width:40%;
 }
 
