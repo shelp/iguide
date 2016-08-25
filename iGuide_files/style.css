@@ -72,12 +72,22 @@ body {
 }
 .text{
 	font-family: 'Roboto', sans-serif;
-	font-size:20px;
+	font-size:18px;
 	color:#999;
 	font-weight:100;
 	text-align:center;
-	margin-bottom:90px;
+	margin-bottom:30px;
 }
+
+.text b {
+	font-family: 'Roboto', sans-serif;
+	font-size:18px;
+	color:#999;
+	font-weight:bold;
+	text-align:center;
+	margin-bottom:30px;
+}
+
 .gris{
 	color: #444;
 }
@@ -443,6 +453,14 @@ section.que article.inicio div h2 {
     font-family: 'Roboto Condensed',sans-serif;
     font-size: 25px;
     font-weight: 300;
+    margin-top: 20px;
+}
+
+section.que article.inicio div p {
+    font-family: 'Roboto Condensed',sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    margin-top: 20px;
 }
 
 section.que article.principal{
@@ -504,7 +522,7 @@ section.que article.cajasTexto div.cajaRoja {
 		display:block;
 		background:url(../img/bgdCajasQue.png) top left no-repeat #FFEB00;
 		color:#FFF;
-		margin-right:26px;
+		margin-right:18px;
 		padding: 0px;
 		}
 
@@ -613,6 +631,13 @@ section.quienes article.inicio div h1 {
     font-family: 'Roboto Condensed',sans-serif;
     font-size: 40px;
     font-weight: 300;
+}
+
+section.quienes article.inicio div p {
+    font-family: 'Roboto Condensed',sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    margin-top: 20px;
 }
 
 section.quienes article .q-box li{
